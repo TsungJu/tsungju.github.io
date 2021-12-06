@@ -1,7 +1,7 @@
 # Jekyll configuration
 
-name: Leonard Computer Science Technology Blog
-description: A jekyll theme
+name: Leonard Blog
+description: Leonard Computer Science Technology Blog
 
 # url is currently only used only for the RSS feed in feed.xml
 url: https://tsungju.github.io/
