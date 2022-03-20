@@ -15,10 +15,10 @@ $ pip install flask_cors
 
 2. Import and add CORS to your flask app
 ==============================================
-
-## code:
 ```
+...
 from flask_cors import CORS
 app = Flask(__name__)
 cors = CORS(app)
+...
 ```
