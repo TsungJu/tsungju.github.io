@@ -108,7 +108,7 @@ $ `bash ./docker/syslog-messages/messages-mongodb-sink/start-messages-mongodb-si
 Address: localhost
 Port: 27017
 
-![mongodb checkout](site_static/mongodb_interpreted_message_data.JPG)
+![mongodb checkout](site_static/mongodb_interpreted_message_data.jpg)
 
 ### kafka GUI tool: kafdrop
 
