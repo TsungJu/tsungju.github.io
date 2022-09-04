@@ -2,6 +2,7 @@
 layout: post
 title: "centos7 user account make install nginx service"
 date: 2022-01-14 14:25:06 -0700
+tags: [centos,nginx]
 comments: true
 ---
 

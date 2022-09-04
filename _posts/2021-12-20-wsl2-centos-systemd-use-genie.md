@@ -2,6 +2,7 @@
 layout: post
 title: "WSL2 centos install genie use systemd"
 date: 2021-12-20 14:25:06 -0700
+tags: [WSL2,centos,genie]
 comments: true
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "flask-jwt-extended decode token keyError:'identity'"
 date: 2022-01-07 15:25:06 -0700
+tags: [flask-jwt-extended]
 comments: true
 ---
 

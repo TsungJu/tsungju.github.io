@@ -2,6 +2,7 @@
 layout: post
 title: "Kafka connector can't produce messages troubleshooting"
 date: 2021-12-06 14:25:06 -0700
+tags: [Kafka]
 comments: true
 ---
 

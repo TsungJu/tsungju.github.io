@@ -2,6 +2,7 @@
 layout: post
 title: "Swagger UI Server response type error failed to fetch"
 date: 2022-03-16 11:25:06 -0700
+tags: [Swagger UI]
 comments: true
 ---
 
