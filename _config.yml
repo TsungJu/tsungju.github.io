@@ -21,7 +21,8 @@ author: Tsung Ju
 
 navbar-links:
   About Me: "aboutme"
-  Projects: "projects"
+  Projects: 
+    - Analyzing and Modeling RestAPI: "RestAPI"
   Resources:
     - Learn markdown: "https://www.markdowntutorial.com/"
 
