@@ -22,7 +22,11 @@ author: Tsung Ju
 navbar-links:
   About Me: "aboutme"
   Projects: 
-    - Analyzing and Modeling RestAPI: "RestAPI"
+    - Inventory Analyze and Management System: "inventory-analyze-management"
+    - Firewall Apply System: "firewall-apply"
+    - Data Analyze Toolset Backend: "data-analyze-toolset-backend"
+    - Syslog Realtime Interpret: "syslog-realtime-interpret"
+
   Resources:
     - Learn markdown: "https://www.markdowntutorial.com/"
 
